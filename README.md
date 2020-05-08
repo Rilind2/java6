@@ -1,1 +1,1 @@
-# java6
+# detyra6
